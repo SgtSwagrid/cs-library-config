@@ -10,6 +10,8 @@ Updates to these files should be made _here_, not in any of the downstream repos
 
 ## 📋 What's included?
 
+Everything from [GitHub Config](https://github.com/SgtSwagrid/github-config), plus the following.
+
 ### Build
 
 - Shared MSBuild settings in [`Directory.Build.props`](Directory.Build.props): the latest C# on .NET 10, nullable reference types, warnings as errors,
@@ -77,5 +79,6 @@ In particular, and contra [LICENSE.md](LICENSE.md), you may remove the licence t
 
 ## 👁️ See also
 
+- [GitHub Config](https://github.com/SgtSwagrid/github-config) is an upstream template for GitHub projects in general.
 - [C# Library Template](https://github.com/SgtSwagrid/cs-library-template) is a full template which uses this configuration.
 - [Scala Library Config](https://github.com/SgtSwagrid/scala-library-config) is the equivalent for my Scala libraries.
