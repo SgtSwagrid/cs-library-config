@@ -1,0 +1,20 @@
+{
+  "ignore": [
+    "README.md",
+    ".github/graph.json",
+    ".github/workflows/sync.yml"
+  ],
+  "children": [
+    {
+      "target": {
+        "owner": "SgtSwagrid",
+        "name": "cs-library-template"
+      }
+    }, {
+      "target": {
+        "owner": "SgtSwagrid",
+        "name": "Hephaestus"
+      }
+    }
+  ]
+}
